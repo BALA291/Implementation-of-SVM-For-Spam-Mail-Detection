@@ -24,8 +24,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: ADHITHYARAM D
-RegisterNumber:  212222230008
+Developed by: BALAMURUGAN B
+RegisterNumber:  212222230016
 */
 ```
 ```python
@@ -59,19 +59,19 @@ accuracy
 
 ## Output:
 ##### df.head():
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393540/f59f30db-3832-4701-b5ec-0381c9fc0af2" width="300">
+![image](https://github.com/BALA291/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120717501/b01c2e41-4beb-43e6-8896-674ba29b670d)
 
 #### df.info():
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393540/43c833c1-9f69-4fc0-8566-4a92e2407d29" width="200">
+![image](https://github.com/BALA291/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120717501/6b2861e9-f88c-4602-9db5-5b6b1849ddde)
 
 #### df.null():
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393540/41fd497f-32b9-4c1e-9f83-aac4252f4804" width="100">
+![image](https://github.com/BALA291/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120717501/c44721cf-49ce-4af3-81c4-d4bb4ec6d71c)
 
 #### y_pred:
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393540/039c0e79-4bfc-474a-83e1-445165e67962" width="300">
+![image](https://github.com/BALA291/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120717501/35c49c2a-e369-4e18-a528-511457da1fcd)
 
 #### Accuracy:
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393540/888b825d-0e49-4a1e-a26f-babce1862d07" width="100">
+![image](https://github.com/BALA291/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120717501/dcd90555-cf89-4d9a-9631-17eb19e21e8c)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
